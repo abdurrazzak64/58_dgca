@@ -10470,11 +10470,10 @@ strong.text_center{
 
 
 .ceo_img_text p {
-    background: #d1c8c8;
     margin: 20px 0px;
     border-radius: 5px;
     padding: 0px 10px;
-    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    /* box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%); */
 }
 
 
